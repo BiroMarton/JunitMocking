@@ -1,0 +1,4 @@
+banán,
+alak,
+alma,
+citrom.

@@ -1,0 +1,3 @@
+The build employs skills that all complement and build on each other to turn the character into a devastating dual-wielder. 
+We add a lot of flat Acid damage with Lethal Assault, use Weapon-Pool Skills (WPS) to upgrade our dual-wielding with AOE and powerful single-target damage. 
+Add Nidalla's Hidden Hand to boost three of the WPS with our favored damage type and add a debuff, and add in Fire Strike as a huge independent multiplier to all dual-wielding and WPS.
